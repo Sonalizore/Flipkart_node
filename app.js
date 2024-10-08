@@ -16,6 +16,7 @@ var productRouter=require('./routes/product.route');
 var colorRouter=require('./routes/color.router');
 var sizeRouter=require('./routes/size.route');
 // var reviewRouter=require('./routes/reviews.route');
+//okay
 
 const db=require('./model');
 
